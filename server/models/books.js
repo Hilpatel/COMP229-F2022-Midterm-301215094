@@ -1,3 +1,6 @@
+// Name: Hil Patel
+// Student Id: 301215094
+
 let mongoose = require('mongoose');
 
 // create a model class
